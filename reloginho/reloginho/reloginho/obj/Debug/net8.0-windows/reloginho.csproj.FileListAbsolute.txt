@@ -1,0 +1,16 @@
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\bin\Debug\net8.0-windows\reloginho.exe
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\bin\Debug\net8.0-windows\reloginho.deps.json
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\bin\Debug\net8.0-windows\reloginho.runtimeconfig.json
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\bin\Debug\net8.0-windows\reloginho.dll
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\bin\Debug\net8.0-windows\reloginho.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.Form1.resources
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.csproj.GenerateResource.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.AssemblyInfoInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.AssemblyInfo.cs
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.csproj.CoreCompileInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.dll
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\refint\reloginho.dll
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\reloginho.genruntimeconfig.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\num sei\reloginho\reloginho\reloginho\obj\Debug\net8.0-windows\ref\reloginho.dll
